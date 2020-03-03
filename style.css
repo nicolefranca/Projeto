@@ -1,0 +1,24 @@
+body{
+    background-color: #ec407a80;
+}
+header{
+    text-align: center;
+    font-size: 65px;
+}
+.answers{
+    display: inline-block;
+    border: 5px dashed rgba(94, 10, 42, 0.747);
+    width: 500px;
+    height: 245px;
+    margin: 80px 0px 0px 103px;
+    vertical-align: top;
+}
+p{
+    text-align: center;
+}
+.r{
+    color: green;
+}
+.w{
+    color: red;
+}
